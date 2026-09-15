@@ -112,7 +112,7 @@ nav a:hover {
   text-align: center;
   background:
     linear-gradient(rgba(10, 14, 39, 0.55), rgba(10, 14, 39, 0.92)),
-    url("../images/hero-bg.png") center / cover no-repeat;
+    url("../images/hero-bg.png") center / cover no-repeat; /* eto yung example sa background part which is nag-add ako ng image for background. */
 }
 
 .hero-content {
